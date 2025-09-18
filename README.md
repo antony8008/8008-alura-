@@ -10,7 +10,7 @@ Só Deus na causa
 </head>
 <body>
   <header>
-    <h1>Seu Nome</h1>
+    <h1>antony777</h1>
     <nav>
       <a href="#sobre">Sobre</a>
       <a href="#projetos">Projetos</a>
@@ -41,7 +41,7 @@ Só Deus na causa
 
   <section id="contato">
     <h2>Contato</h2>
-    <p>Email: <a href="mailto:seuemail@email.com">seuemail@email.com</a></p>
+    <p>Email: <a href="mailto:0001114766069sp@al.educacao.sp.gov.br">seuemail@email.com</a></p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/seuperfil" target="_blank">seuperfil</a></p>
   </section>
 
